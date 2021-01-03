@@ -10,6 +10,11 @@ class Challenges {
     // ConversaoDeTempo.Run();
     // IdadeEmDias.Run();
     // TempoDoDobby.Run();
-    RodizioDeCavalosECarruagens.Run();
+    // RodizioDeCavalosECarruagens.Run();
+    // AoQuadradoEAoCubo.Run();
+    // CorridaDeTartarugas.Run();
+    // UltrapassandoV.Run();
+    // ValidacaoDeNota.Run();
+    PedroBentoEOMundoDeOz.Run();
   }
 }

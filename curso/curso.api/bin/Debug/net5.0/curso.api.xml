@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Log your account into the system passing the login and senha through the JSON body of post method
+            </summary>
+            <param name="loginViewModeInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Models.Usuarios.RegistrarViewModelInput)">
+            <summary>
+            Method responsible for registration of new account into the system
+            </summary>
+            <param name="registrarViewModelInput"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
